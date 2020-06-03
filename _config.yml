@@ -35,8 +35,8 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    #- text: XML Feed
-    #  url: /feed.xml
+    - text: Categories
+      url: /category/
 
 url: "https://avaneesh-sharma.github.io"
 baseurl: ""
