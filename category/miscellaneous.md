@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: miscellaneous
-title: Misc
-permalink: /category/miscellaneous
+categories: all
+title: All Posts
+permalink: /category/all
 ---
