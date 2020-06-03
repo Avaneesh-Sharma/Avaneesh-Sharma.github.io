@@ -1,8 +1,8 @@
-title: Data Science Concepts
+title: Data Science & Me
 description: Certain Technical and Soft-Skill concepts I want to share
 author: Avaneesh Sharma
 github: https://github.com/avaneesh-sharma
-about: II am a data Science professional with experience in Full Stack data science product development in the energy and retail fields. I provide solutions for real world problems by first understanding them and then applying the relevant concepts to help solve them.
+about: A Data Science Professional with a Creative bent of Mind.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -15,14 +15,14 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+    #- icon: fa-facebook
+    #  link: "#"
+    #- icon: fa-twitter
+    #  link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/avaneesh-sharma/"
+    #- icon: fa-stack-exchange
+    #  link: "#"
     - icon: fa-github
       link: "https://github.com/avaneesh-sharma"
 
