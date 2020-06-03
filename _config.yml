@@ -36,7 +36,7 @@ urls:
     - text: My Projects
       url: /projects/
     - text: Categories
-      url: /category/
+      url: /category/miscellaneous
 
 url: "https://avaneesh-sharma.github.io"
 baseurl: ""
