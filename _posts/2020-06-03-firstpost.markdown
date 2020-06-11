@@ -2,7 +2,7 @@
 layout: post
 title:  "This is a Test Post"
 date:   2020-06-03 18:37:00 +0530
-categories: [statistics, python, all]
+categories: [statistics, python, all, cultural]
 ---
 
 This is my first post, I need to test a few things here:
